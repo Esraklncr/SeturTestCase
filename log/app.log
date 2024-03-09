@@ -1,0 +1,74 @@
+02:04:34.251 [main]INFO  TC_setur.seturTest - https://www.setur.com.tr/ sayfasına gidilir
+02:04:51.411 [main]INFO  TC_setur.seturTest - setur url’nin geldiği kontrol edilir
+02:04:54.438 [main]INFO  TC_setur.seturTest - Ana sayfada Otel tabının default geldiği kontrol edilir,
+02:04:54.534 [main]INFO  TC_setur.seturTest - 'Nereye Gideceksiniz?' alanına csv dosyasından 'Antalya' yazılır ve en üsteki Antalya seçeneğine tıklanır
+02:04:56.393 [main]INFO  TC_setur.seturTest - Tarih alanında Nisan’ın ilk haftası için bir haftalık aralık seçilir.
+02:04:58.039 [main]INFO  TC_setur.seturTest - Yetişkin sayısı 1 artırılır ve Yetişkin sayısının değiştiği kontrol edilir.
+02:04:59.354 [main]INFO  TC_setur.seturTest - 'Ara'butonu’nun görünürlüğü kontrol edilir ve tıklanılır
+02:04:59.810 [main]INFO  TC_setur.seturTest - Açılan url içinde “antalya” kelimesini içerdiği kontrol edilir.
+02:05:04.857 [main]INFO  TC_setur.seturTest - 'Diğer Bölgeleri Göster' alanında rastgele tıklama metotu kullanılarak bir seçim yapılır ve '()'içerisinde bulunan sayı kaydedilir.
+02:05:15.981 [main]INFO  TC_setur.seturTest - Sayfanın altında bulunan 'Antalya Otelleri ve En Uygun Antalya Otel Fiyatları ' alanına kadar ekranda kaydırma yapılır, kaydedilen değerin 8. adımda kaydedilen değerle eşit olduğu kontrol edılır
+02:20:03.135 [main]INFO  TC_setur.seturTest - https://www.setur.com.tr/ sayfasına gidilir
+02:20:20.397 [main]INFO  TC_setur.seturTest - setur url’nin geldiği kontrol edilir
+02:20:23.437 [main]INFO  TC_setur.seturTest - Ana sayfada Otel tabının default geldiği kontrol edilir,
+02:20:23.634 [main]INFO  TC_setur.seturTest - 'Nereye Gideceksiniz?' alanına csv dosyasından 'Antalya' yazılır ve en üsteki Antalya seçeneğine tıklanır
+02:20:25.476 [main]INFO  TC_setur.seturTest - Tarih alanında Nisan’ın ilk haftası için bir haftalık aralık seçilir.
+02:20:27.029 [main]INFO  TC_setur.seturTest - Yetişkin sayısı 1 artırılır ve Yetişkin sayısının değiştiği kontrol edilir.
+02:20:28.434 [main]INFO  TC_setur.seturTest - 'Ara'butonu’nun görünürlüğü kontrol edilir ve tıklanılır
+02:20:29.235 [main]INFO  TC_setur.seturTest - Açılan url içinde “antalya” kelimesini içerdiği kontrol edilir.
+02:20:37.852 [main]INFO  TC_setur.seturTest - 'Diğer Bölgeleri Göster' alanında rastgele tıklama metotu kullanılarak bir seçim yapılır ve '()'içerisinde bulunan sayı kaydedilir.
+09:20:17.180 [main]INFO  TC_setur.seturTest - https://www.setur.com.tr/ sayfasına gidilir
+09:20:34.705 [main]INFO  TC_setur.seturTest - setur url’nin geldiği kontrol edilir
+09:20:37.755 [main]INFO  TC_setur.seturTest - Ana sayfada Otel tabının default geldiği kontrol edilir,
+09:20:37.839 [main]INFO  TC_setur.seturTest - 'Nereye Gideceksiniz?' alanına csv dosyasından 'Antalya' yazılır ve en üsteki Antalya seçeneğine tıklanır
+09:20:39.407 [main]INFO  TC_setur.seturTest - Tarih alanında Nisan’ın ilk haftası için bir haftalık aralık seçilir.
+09:20:40.911 [main]INFO  TC_setur.seturTest - Yetişkin sayısı 1 artırılır ve Yetişkin sayısının değiştiği kontrol edilir.
+09:20:42.520 [main]INFO  TC_setur.seturTest - 'Ara'butonu’nun görünürlüğü kontrol edilir ve tıklanılır
+09:20:43.058 [main]INFO  TC_setur.seturTest - Açılan url içinde “antalya” kelimesini içerdiği kontrol edilir.
+09:20:48.077 [main]INFO  TC_setur.seturTest - 'Diğer Bölgeleri Göster' alanında rastgele tıklama metotu kullanılarak bir seçim yapılır ve '()'içerisinde bulunan sayı kaydedilir.
+09:22:44.117 [main]INFO  TC_setur.seturTest - https://www.setur.com.tr/ sayfasına gidilir
+09:23:03.856 [main]INFO  TC_setur.seturTest - setur url’nin geldiği kontrol edilir
+09:23:06.886 [main]INFO  TC_setur.seturTest - Ana sayfada Otel tabının default geldiği kontrol edilir,
+09:23:06.984 [main]INFO  TC_setur.seturTest - 'Nereye Gideceksiniz?' alanına csv dosyasından 'Antalya' yazılır ve en üsteki Antalya seçeneğine tıklanır
+09:23:08.573 [main]INFO  TC_setur.seturTest - Tarih alanında Nisan’ın ilk haftası için bir haftalık aralık seçilir.
+09:23:10.172 [main]INFO  TC_setur.seturTest - Yetişkin sayısı 1 artırılır ve Yetişkin sayısının değiştiği kontrol edilir.
+09:23:11.857 [main]INFO  TC_setur.seturTest - 'Ara'butonu’nun görünürlüğü kontrol edilir ve tıklanılır
+09:23:12.457 [main]INFO  TC_setur.seturTest - Açılan url içinde “antalya” kelimesini içerdiği kontrol edilir.
+09:23:19.481 [main]INFO  TC_setur.seturTest - 'Diğer Bölgeleri Göster' alanında rastgele tıklama metotu kullanılarak bir seçim yapılır ve '()'içerisinde bulunan sayı kaydedilir.
+09:25:20.761 [main]INFO  TC_setur.seturTest - https://www.setur.com.tr/ sayfasına gidilir
+09:25:41.592 [main]INFO  TC_setur.seturTest - setur url’nin geldiği kontrol edilir
+09:25:44.624 [main]INFO  TC_setur.seturTest - Ana sayfada Otel tabının default geldiği kontrol edilir,
+09:25:44.714 [main]INFO  TC_setur.seturTest - 'Nereye Gideceksiniz?' alanına csv dosyasından 'Antalya' yazılır ve en üsteki Antalya seçeneğine tıklanır
+09:25:46.357 [main]INFO  TC_setur.seturTest - Tarih alanında Nisan’ın ilk haftası için bir haftalık aralık seçilir.
+09:25:49.214 [main]INFO  TC_setur.seturTest - Yetişkin sayısı 1 artırılır ve Yetişkin sayısının değiştiği kontrol edilir.
+09:25:51.027 [main]INFO  TC_setur.seturTest - 'Ara'butonu’nun görünürlüğü kontrol edilir ve tıklanılır
+09:25:51.739 [main]INFO  TC_setur.seturTest - Açılan url içinde “antalya” kelimesini içerdiği kontrol edilir.
+09:25:59.544 [main]INFO  TC_setur.seturTest - 'Diğer Bölgeleri Göster' alanında rastgele tıklama metotu kullanılarak bir seçim yapılır ve '()'içerisinde bulunan sayı kaydedilir.
+09:27:34.244 [main]INFO  TC_setur.seturTest - https://www.setur.com.tr/ sayfasına gidilir
+09:27:59.436 [main]INFO  TC_setur.seturTest - setur url’nin geldiği kontrol edilir
+09:28:02.479 [main]INFO  TC_setur.seturTest - Ana sayfada Otel tabının default geldiği kontrol edilir,
+09:28:02.783 [main]INFO  TC_setur.seturTest - 'Nereye Gideceksiniz?' alanına csv dosyasından 'Antalya' yazılır ve en üsteki Antalya seçeneğine tıklanır
+09:28:05.120 [main]INFO  TC_setur.seturTest - Tarih alanında Nisan’ın ilk haftası için bir haftalık aralık seçilir.
+09:28:07.854 [main]INFO  TC_setur.seturTest - Yetişkin sayısı 1 artırılır ve Yetişkin sayısının değiştiği kontrol edilir.
+09:28:09.852 [main]INFO  TC_setur.seturTest - 'Ara'butonu’nun görünürlüğü kontrol edilir ve tıklanılır
+09:28:10.411 [main]INFO  TC_setur.seturTest - Açılan url içinde “antalya” kelimesini içerdiği kontrol edilir.
+09:28:19.194 [main]INFO  TC_setur.seturTest - 'Diğer Bölgeleri Göster' alanında rastgele tıklama metotu kullanılarak bir seçim yapılır ve '()'içerisinde bulunan sayı kaydedilir.
+09:30:32.127 [main]INFO  TC_setur.seturTest - https://www.setur.com.tr/ sayfasına gidilir
+09:31:03.166 [main]INFO  TC_setur.seturTest - setur url’nin geldiği kontrol edilir
+09:31:06.198 [main]INFO  TC_setur.seturTest - Ana sayfada Otel tabının default geldiği kontrol edilir,
+09:31:06.365 [main]INFO  TC_setur.seturTest - 'Nereye Gideceksiniz?' alanına csv dosyasından 'Antalya' yazılır ve en üsteki Antalya seçeneğine tıklanır
+09:31:08.250 [main]INFO  TC_setur.seturTest - Tarih alanında Nisan’ın ilk haftası için bir haftalık aralık seçilir.
+09:31:10.638 [main]INFO  TC_setur.seturTest - Yetişkin sayısı 1 artırılır ve Yetişkin sayısının değiştiği kontrol edilir.
+09:31:12.678 [main]INFO  TC_setur.seturTest - 'Ara'butonu’nun görünürlüğü kontrol edilir ve tıklanılır
+09:31:13.426 [main]INFO  TC_setur.seturTest - Açılan url içinde “antalya” kelimesini içerdiği kontrol edilir.
+09:31:23.897 [main]INFO  TC_setur.seturTest - 'Diğer Bölgeleri Göster' alanında rastgele tıklama metotu kullanılarak bir seçim yapılır ve '()'içerisinde bulunan sayı kaydedilir.
+09:35:03.016 [main]INFO  TC_setur.seturTest - https://www.setur.com.tr/ sayfasına gidilir
+09:35:36.872 [main]INFO  TC_setur.seturTest - setur url’nin geldiği kontrol edilir
+09:35:40.368 [main]INFO  TC_setur.seturTest - Ana sayfada Otel tabının default geldiği kontrol edilir,
+09:35:40.644 [main]INFO  TC_setur.seturTest - 'Nereye Gideceksiniz?' alanına csv dosyasından 'Antalya' yazılır ve en üsteki Antalya seçeneğine tıklanır
+09:35:43.774 [main]INFO  TC_setur.seturTest - Tarih alanında Nisan’ın ilk haftası için bir haftalık aralık seçilir.
+09:35:47.744 [main]INFO  TC_setur.seturTest - Yetişkin sayısı 1 artırılır ve Yetişkin sayısının değiştiği kontrol edilir.
+09:35:51.198 [main]INFO  TC_setur.seturTest - 'Ara'butonu’nun görünürlüğü kontrol edilir ve tıklanılır
+09:35:52.505 [main]INFO  TC_setur.seturTest - Açılan url içinde “antalya” kelimesini içerdiği kontrol edilir.
+09:36:03.536 [main]INFO  TC_setur.seturTest - 'Diğer Bölgeleri Göster' alanında rastgele tıklama metotu kullanılarak bir seçim yapılır ve '()'içerisinde bulunan sayı kaydedilir.
+09:36:03.536 [main]INFO  TC_setur.seturTest - Sayfanın altında bulunan 'Antalya Otelleri ve En Uygun Antalya Otel Fiyatları ' alanına kadar ekranda kaydırma yapılır, kaydedilen değerin 8. adımda kaydedilen değerle eşit olduğu kontrol edılır
